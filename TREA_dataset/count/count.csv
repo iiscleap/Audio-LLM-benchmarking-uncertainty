@@ -1,0 +1,201 @@
+question,id,audio_path,optionA,optionB,optionC,optionD,correct
+What is the number of distinct sound sources in the audio file?,0,audios/0.wav,0,2,3,1,D
+How many different types of sounds can be identified in this recording?,1,audios/1.wav,3,0,1,2,C
+How many unique types of sound are present in this audio?,2,audios/2.wav,2,3,0,1,D
+Identify the count of different sound sources in this clip.,3,audios/3.wav,5,3,4,6,C
+What is the total number of unique sounds heard in this audio?,4,audios/4.wav,2,0,3,1,D
+How many distinct sound categories are there in this audio file?,5,audios/5.wav,2,3,0,1,D
+Determine the number of unique sound sources in this recording.,6,audios/6.wav,0,2,1,3,C
+How many separate sound sources are included in the audio?,7,audios/7.wav,2,3,1,0,C
+What is the total number of unique sound types in this audio?,8,audios/8.wav,2,1,3,4,A
+How many different sound sources can be heard in this clip?,9,audios/9.wav,1,4,2,3,C
+What is the number of distinct sound sources in the audio file?,10,audios/10.wav,0,2,3,1,D
+How many different types of sounds can be identified in this recording?,11,audios/11.wav,5,2,4,3,D
+How many unique types of sound are present in this audio?,12,audios/12.wav,3,2,1,0,C
+Identify the count of different sound sources in this clip.,13,audios/13.wav,1,4,3,2,D
+What is the total number of unique sounds heard in this audio?,14,audios/14.wav,1,2,3,0,A
+How many distinct sound categories are there in this audio file?,15,audios/15.wav,3,1,0,2,B
+Determine the number of unique sound sources in this recording.,16,audios/16.wav,2,3,0,1,D
+How many separate sound sources are included in the audio?,17,audios/17.wav,2,3,1,0,C
+What is the total number of unique sound types in this audio?,18,audios/18.wav,4,1,3,2,D
+How many different sound sources can be heard in this clip?,19,audios/19.wav,1,2,0,3,A
+What is the number of distinct sound sources in the audio file?,20,audios/20.wav,1,0,3,2,A
+How many different types of sounds can be identified in this recording?,21,audios/21.wav,1,3,0,2,A
+How many unique types of sound are present in this audio?,22,audios/22.wav,2,3,0,1,D
+Identify the count of different sound sources in this clip.,23,audios/23.wav,1,4,2,3,C
+What is the total number of unique sounds heard in this audio?,24,audios/24.wav,1,2,3,4,B
+How many distinct sound categories are there in this audio file?,25,audios/25.wav,2,3,1,0,C
+Determine the number of unique sound sources in this recording.,26,audios/26.wav,3,0,2,1,D
+How many separate sound sources are included in the audio?,27,audios/27.wav,2,3,1,0,C
+What is the total number of unique sound types in this audio?,28,audios/28.wav,4,3,2,1,C
+How many different sound sources can be heard in this clip?,29,audios/29.wav,1,2,0,3,A
+What is the number of distinct sound sources in the audio file?,30,audios/30.wav,0,1,3,2,B
+How many different types of sounds can be identified in this recording?,31,audios/31.wav,1,3,0,2,A
+How many unique types of sound are present in this audio?,32,audios/32.wav,2,3,1,4,A
+Identify the count of different sound sources in this clip.,33,audios/33.wav,2,3,1,0,C
+What is the total number of unique sounds heard in this audio?,34,audios/34.wav,3,1,2,4,C
+How many distinct sound categories are there in this audio file?,35,audios/35.wav,3,1,4,2,D
+Determine the number of unique sound sources in this recording.,36,audios/36.wav,2,1,0,3,B
+How many separate sound sources are included in the audio?,37,audios/37.wav,1,0,2,3,A
+What is the total number of unique sound types in this audio?,38,audios/38.wav,2,1,3,0,B
+How many different sound sources can be heard in this clip?,39,audios/39.wav,3,2,0,1,D
+What is the number of distinct sound sources in the audio file?,40,audios/40.wav,5,4,3,2,C
+How many different types of sounds can be identified in this recording?,41,audios/41.wav,1,3,2,4,C
+How many unique types of sound are present in this audio?,42,audios/42.wav,4,3,1,2,D
+Identify the count of different sound sources in this clip.,43,audios/43.wav,5,3,2,4,B
+What is the total number of unique sounds heard in this audio?,44,audios/44.wav,2,1,3,0,B
+How many distinct sound categories are there in this audio file?,45,audios/45.wav,0,1,3,2,B
+Determine the number of unique sound sources in this recording.,46,audios/46.wav,3,2,0,1,D
+How many separate sound sources are included in the audio?,47,audios/47.wav,2,0,1,3,C
+What is the total number of unique sound types in this audio?,48,audios/48.wav,3,1,2,0,B
+How many different sound sources can be heard in this clip?,49,audios/49.wav,2,0,3,1,D
+What is the number of distinct sound sources in the audio file?,50,audios/50.wav,6,5,3,4,D
+How many different types of sounds can be identified in this recording?,51,audios/51.wav,2,3,0,1,D
+How many unique types of sound are present in this audio?,52,audios/52.wav,1,3,0,2,A
+Identify the count of different sound sources in this clip.,53,audios/53.wav,1,0,3,2,A
+What is the total number of unique sounds heard in this audio?,54,audios/54.wav,3,1,0,2,B
+How many distinct sound categories are there in this audio file?,55,audios/55.wav,1,3,2,0,A
+Determine the number of unique sound sources in this recording.,56,audios/56.wav,1,2,0,3,A
+How many separate sound sources are included in the audio?,57,audios/57.wav,2,0,3,1,D
+What is the total number of unique sound types in this audio?,58,audios/58.wav,1,4,3,2,D
+How many different sound sources can be heard in this clip?,59,audios/59.wav,3,1,0,2,B
+What is the number of distinct sound sources in the audio file?,60,audios/60.wav,3,1,4,2,D
+How many different types of sounds can be identified in this recording?,61,audios/61.wav,4,1,2,3,C
+How many unique types of sound are present in this audio?,62,audios/62.wav,2,3,1,0,C
+Identify the count of different sound sources in this clip.,63,audios/63.wav,2,3,4,1,A
+What is the total number of unique sounds heard in this audio?,64,audios/64.wav,3,1,0,2,B
+How many distinct sound categories are there in this audio file?,65,audios/65.wav,0,2,1,3,C
+Determine the number of unique sound sources in this recording.,66,audios/66.wav,2,0,1,3,C
+How many separate sound sources are included in the audio?,67,audios/67.wav,3,2,0,1,D
+What is the total number of unique sound types in this audio?,68,audios/68.wav,2,4,3,1,A
+How many different sound sources can be heard in this clip?,69,audios/69.wav,4,3,2,5,B
+What is the number of distinct sound sources in the audio file?,70,audios/70.wav,0,2,3,1,D
+How many different types of sounds can be identified in this recording?,71,audios/71.wav,2,3,1,0,C
+How many unique types of sound are present in this audio?,72,audios/72.wav,1,4,2,3,C
+Identify the count of different sound sources in this clip.,73,audios/73.wav,2,3,5,4,B
+What is the total number of unique sounds heard in this audio?,74,audios/74.wav,3,1,2,0,B
+How many distinct sound categories are there in this audio file?,75,audios/75.wav,3,6,5,4,D
+Determine the number of unique sound sources in this recording.,76,audios/76.wav,2,3,0,1,D
+How many separate sound sources are included in the audio?,77,audios/77.wav,2,0,3,1,D
+What is the total number of unique sound types in this audio?,78,audios/78.wav,1,0,2,3,A
+How many different sound sources can be heard in this clip?,79,audios/79.wav,0,1,3,2,B
+What is the number of distinct sound sources in the audio file?,80,audios/80.wav,0,1,3,2,B
+How many different types of sounds can be identified in this recording?,81,audios/81.wav,4,3,5,6,A
+How many unique types of sound are present in this audio?,82,audios/82.wav,2,4,3,1,A
+Identify the count of different sound sources in this clip.,83,audios/83.wav,0,3,1,2,C
+What is the total number of unique sounds heard in this audio?,84,audios/84.wav,3,0,1,2,C
+How many distinct sound categories are there in this audio file?,85,audios/85.wav,2,3,1,0,C
+Determine the number of unique sound sources in this recording.,86,audios/86.wav,2,1,0,3,B
+How many separate sound sources are included in the audio?,87,audios/87.wav,3,4,1,2,D
+What is the total number of unique sound types in this audio?,88,audios/88.wav,3,0,1,2,C
+How many different sound sources can be heard in this clip?,89,audios/89.wav,1,2,4,3,B
+What is the number of distinct sound sources in the audio file?,90,audios/90.wav,5,3,2,4,B
+How many different types of sounds can be identified in this recording?,91,audios/91.wav,3,0,2,1,D
+How many unique types of sound are present in this audio?,92,audios/92.wav,4,3,2,1,C
+Identify the count of different sound sources in this clip.,93,audios/93.wav,1,0,3,2,A
+What is the total number of unique sounds heard in this audio?,94,audios/94.wav,1,3,0,2,A
+How many distinct sound categories are there in this audio file?,95,audios/95.wav,0,1,2,3,B
+Determine the number of unique sound sources in this recording.,96,audios/96.wav,2,5,4,3,D
+How many separate sound sources are included in the audio?,97,audios/97.wav,3,4,1,2,D
+What is the total number of unique sound types in this audio?,98,audios/98.wav,5,4,3,2,C
+How many different sound sources can be heard in this clip?,99,audios/99.wav,0,2,3,1,D
+What is the number of distinct sound sources in the audio file?,100,audios/100.wav,3,2,1,0,C
+How many different types of sounds can be identified in this recording?,101,audios/101.wav,2,1,3,0,B
+How many unique types of sound are present in this audio?,102,audios/102.wav,2,1,3,0,B
+Identify the count of different sound sources in this clip.,103,audios/103.wav,0,1,3,2,B
+What is the total number of unique sounds heard in this audio?,104,audios/104.wav,2,3,0,1,D
+How many distinct sound categories are there in this audio file?,105,audios/105.wav,3,1,2,0,B
+Determine the number of unique sound sources in this recording.,106,audios/106.wav,3,2,1,0,C
+How many separate sound sources are included in the audio?,107,audios/107.wav,2,3,4,5,B
+What is the total number of unique sound types in this audio?,108,audios/108.wav,4,3,1,2,D
+How many different sound sources can be heard in this clip?,109,audios/109.wav,2,3,1,0,C
+What is the number of distinct sound sources in the audio file?,110,audios/110.wav,3,2,1,0,C
+How many different types of sounds can be identified in this recording?,111,audios/111.wav,3,5,2,4,A
+How many unique types of sound are present in this audio?,112,audios/112.wav,2,1,0,3,B
+Identify the count of different sound sources in this clip.,113,audios/113.wav,4,2,5,3,D
+What is the total number of unique sounds heard in this audio?,114,audios/114.wav,1,4,3,2,D
+How many distinct sound categories are there in this audio file?,115,audios/115.wav,4,2,3,5,C
+Determine the number of unique sound sources in this recording.,116,audios/116.wav,4,2,3,1,B
+How many separate sound sources are included in the audio?,117,audios/117.wav,2,3,1,0,C
+What is the total number of unique sound types in this audio?,118,audios/118.wav,3,0,2,1,D
+How many different sound sources can be heard in this clip?,119,audios/119.wav,3,0,1,2,C
+What is the number of distinct sound sources in the audio file?,120,audios/120.wav,0,1,3,2,B
+How many different types of sounds can be identified in this recording?,121,audios/121.wav,2,4,1,3,A
+How many unique types of sound are present in this audio?,122,audios/122.wav,2,1,0,3,B
+Identify the count of different sound sources in this clip.,123,audios/123.wav,2,3,1,0,C
+What is the total number of unique sounds heard in this audio?,124,audios/124.wav,0,2,1,3,C
+How many distinct sound categories are there in this audio file?,125,audios/125.wav,0,3,1,2,C
+Determine the number of unique sound sources in this recording.,126,audios/126.wav,3,1,2,0,B
+How many separate sound sources are included in the audio?,127,audios/127.wav,4,1,2,3,C
+What is the total number of unique sound types in this audio?,128,audios/128.wav,1,0,2,3,A
+How many different sound sources can be heard in this clip?,129,audios/129.wav,5,2,4,3,D
+What is the number of distinct sound sources in the audio file?,130,audios/130.wav,2,3,1,4,A
+How many different types of sounds can be identified in this recording?,131,audios/131.wav,1,3,4,2,D
+How many unique types of sound are present in this audio?,132,audios/132.wav,1,3,0,2,A
+Identify the count of different sound sources in this clip.,133,audios/133.wav,0,2,3,1,D
+What is the total number of unique sounds heard in this audio?,134,audios/134.wav,2,3,4,1,A
+How many distinct sound categories are there in this audio file?,135,audios/135.wav,3,2,1,4,B
+Determine the number of unique sound sources in this recording.,136,audios/136.wav,2,1,0,3,B
+How many separate sound sources are included in the audio?,137,audios/137.wav,3,2,1,0,C
+What is the total number of unique sound types in this audio?,138,audios/138.wav,5,6,3,4,D
+How many different sound sources can be heard in this clip?,139,audios/139.wav,3,1,2,0,B
+What is the number of distinct sound sources in the audio file?,140,audios/140.wav,1,2,3,0,A
+How many different types of sounds can be identified in this recording?,141,audios/141.wav,5,4,2,3,D
+How many unique types of sound are present in this audio?,142,audios/142.wav,1,2,3,0,A
+Identify the count of different sound sources in this clip.,143,audios/143.wav,1,3,2,0,A
+What is the total number of unique sounds heard in this audio?,144,audios/144.wav,1,4,2,3,C
+How many distinct sound categories are there in this audio file?,145,audios/145.wav,3,2,1,4,B
+Determine the number of unique sound sources in this recording.,146,audios/146.wav,3,1,2,0,B
+How many separate sound sources are included in the audio?,147,audios/147.wav,4,2,3,1,B
+What is the total number of unique sound types in this audio?,148,audios/148.wav,2,3,1,4,A
+How many different sound sources can be heard in this clip?,149,audios/149.wav,2,1,3,4,A
+What is the number of distinct sound sources in the audio file?,150,audios/150.wav,1,3,0,2,A
+How many different types of sounds can be identified in this recording?,151,audios/151.wav,4,2,1,3,B
+How many unique types of sound are present in this audio?,152,audios/152.wav,1,2,3,0,A
+Identify the count of different sound sources in this clip.,153,audios/153.wav,0,2,3,1,D
+What is the total number of unique sounds heard in this audio?,154,audios/154.wav,3,0,1,2,C
+How many distinct sound categories are there in this audio file?,155,audios/155.wav,2,0,3,1,D
+Determine the number of unique sound sources in this recording.,156,audios/156.wav,2,1,0,3,B
+How many separate sound sources are included in the audio?,157,audios/157.wav,0,1,2,3,B
+What is the total number of unique sound types in this audio?,158,audios/158.wav,1,0,2,3,A
+How many different sound sources can be heard in this clip?,159,audios/159.wav,5,2,3,4,C
+What is the number of distinct sound sources in the audio file?,160,audios/160.wav,1,4,3,2,D
+How many different types of sounds can be identified in this recording?,161,audios/161.wav,2,4,1,3,A
+How many unique types of sound are present in this audio?,162,audios/162.wav,3,4,1,2,D
+Identify the count of different sound sources in this clip.,163,audios/163.wav,0,3,2,1,D
+What is the total number of unique sounds heard in this audio?,164,audios/164.wav,2,3,1,4,A
+How many distinct sound categories are there in this audio file?,165,audios/165.wav,1,2,0,3,A
+Determine the number of unique sound sources in this recording.,166,audios/166.wav,2,4,3,5,C
+How many separate sound sources are included in the audio?,167,audios/167.wav,2,3,4,5,B
+What is the total number of unique sound types in this audio?,168,audios/168.wav,2,3,4,1,A
+How many different sound sources can be heard in this clip?,169,audios/169.wav,2,1,4,3,A
+What is the number of distinct sound sources in the audio file?,170,audios/170.wav,3,2,0,1,D
+How many different types of sounds can be identified in this recording?,171,audios/171.wav,1,0,3,2,A
+How many unique types of sound are present in this audio?,172,audios/172.wav,4,3,5,2,B
+Identify the count of different sound sources in this clip.,173,audios/173.wav,3,0,1,2,C
+What is the total number of unique sounds heard in this audio?,174,audios/174.wav,3,2,1,4,B
+How many distinct sound categories are there in this audio file?,175,audios/175.wav,0,3,1,2,C
+Determine the number of unique sound sources in this recording.,176,audios/176.wav,3,2,4,5,A
+How many separate sound sources are included in the audio?,177,audios/177.wav,3,1,2,4,C
+What is the total number of unique sound types in this audio?,178,audios/178.wav,0,1,2,3,B
+How many different sound sources can be heard in this clip?,179,audios/179.wav,3,4,5,6,B
+What is the number of distinct sound sources in the audio file?,180,audios/180.wav,1,3,2,0,A
+How many different types of sounds can be identified in this recording?,181,audios/181.wav,3,2,1,4,B
+How many unique types of sound are present in this audio?,182,audios/182.wav,0,2,1,3,C
+Identify the count of different sound sources in this clip.,183,audios/183.wav,0,1,2,3,B
+What is the total number of unique sounds heard in this audio?,184,audios/184.wav,1,0,2,3,A
+How many distinct sound categories are there in this audio file?,185,audios/185.wav,0,1,3,2,B
+Determine the number of unique sound sources in this recording.,186,audios/186.wav,0,3,2,1,D
+How many separate sound sources are included in the audio?,187,audios/187.wav,3,2,0,1,D
+What is the total number of unique sound types in this audio?,188,audios/188.wav,1,2,4,3,B
+How many different sound sources can be heard in this clip?,189,audios/189.wav,4,1,3,2,D
+What is the number of distinct sound sources in the audio file?,190,audios/190.wav,3,2,1,0,C
+How many different types of sounds can be identified in this recording?,191,audios/191.wav,3,5,4,2,A
+How many unique types of sound are present in this audio?,192,audios/192.wav,1,3,2,0,A
+Identify the count of different sound sources in this clip.,193,audios/193.wav,1,4,3,2,D
+What is the total number of unique sounds heard in this audio?,194,audios/194.wav,0,3,2,1,D
+How many distinct sound categories are there in this audio file?,195,audios/195.wav,2,3,0,1,D
+Determine the number of unique sound sources in this recording.,196,audios/196.wav,2,0,3,1,D
+How many separate sound sources are included in the audio?,197,audios/197.wav,2,3,0,1,D
+What is the total number of unique sound types in this audio?,198,audios/198.wav,0,3,1,2,C
+How many different sound sources can be heard in this clip?,199,audios/199.wav,2,3,0,1,D
